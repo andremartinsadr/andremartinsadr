@@ -94,19 +94,17 @@ Estudante de Engenharia de Software na Cruzeiro do Sul Virtual. Mineiro, apaixon
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andremartinsadr&theme=tokyonight" 
+<p align="center">
+  <img
+    alt="Estatísticas do GitHub"
+    width="49%"
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andremartinsadr&theme=tokyonight"
   />
-
-  <img 
-    align="left" 
-    alt="Linguagens mais utilizadas" 
-    height="200" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andremartinsadr&theme=tokyonight" 
+  <img
+    alt="Linguagens mais utilizadas nos repositórios"
+    width="49%"
+    height="200"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andremartinsadr&theme=tokyonight"
   />
 </p>
