@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👨🏻‍💻 André Martins Ribeiro
 
-<!--
-**andremartinsadr/andremartinsadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Engenheiro de Software & Desenvolvedor`**
 
-Here are some ideas to get you started:
+Estudante de Engenharia de Software na Cruzeiro do Sul Virtual. Mineiro, apaixonado por tecnologia e atuante na área de TI, focando em suporte técnico, infraestrutura de sistemas e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/andremartinsadr?tab=repositories&sort=stargazers">
+    <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/andremartinsadr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
+  </a>
+  <a href="https://github.com/andremartinsadr?tab=followers">
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/andremartinsadr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🤖 Linguagens e tecnologias
+
+<p align="left">
+  <img alt="Java" title="Java" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="HTML5" title="HTML5" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="Git" title="Git" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="MySQL" title="MySQL" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img alt="Estatísticas do GitHub" height="180" src="https://github-readme-stats.vercel.app/api?username=andremartinsadr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img alt="Linguagens mais utilizadas" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartinsadr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
