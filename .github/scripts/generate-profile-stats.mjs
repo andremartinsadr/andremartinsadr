@@ -29,6 +29,12 @@ const knownColors = {
   Shell: "#89e051",
   TypeScript: "#3178c6",
 };
+const metricIcons = [
+  '<path d="m8 1.7 1.9 3.9 4.3.6-3.1 3 .7 4.3L8 11.5l-3.8 2 .7-4.3-3.1-3 4.3-.6L8 1.7Z"/>',
+  '<path d="M2.5 2.5h4a2 2 0 0 1 2 2v9a2 2 0 0 0-2-2h-4z"/><path d="M13.5 2.5h-3a2 2 0 0 0-2 2v9a2 2 0 0 1 2-2h3z"/>',
+  '<circle cx="8" cy="5" r="2.5"/><path d="M3 14c.4-2.1 2.2-3.5 5-3.5s4.6 1.4 5 3.5"/>',
+  '<circle cx="3" cy="3" r="1.5"/><circle cx="13" cy="3" r="1.5"/><circle cx="8" cy="13" r="1.5"/><path d="M3 4.5v2a2 2 0 0 0 2 2h3m5-4v2a2 2 0 0 1-2 2H8v3"/>',
+];
 
 function escapeXml(value) {
   return String(value).replace(/[<>&"']/g, (character) => {
@@ -125,7 +131,7 @@ function renderStats(user, repositories, languages) {
   const metricRows = metrics
     .map(([label, value], index) => {
       const y = 83 + index * 27;
-      return `<circle cx="48" cy="${y - 4}" r="4" fill="#70a5fd"/><text x="61" y="${y}" class="metric">${label}</text><text x="324" y="${y}" class="value">${value}</text>`;
+      return `<g transform="translate(40 ${y - 14})" fill="none" stroke="#bf91f3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">${metricIcons[index]}</g><text x="61" y="${y}" class="metric">${label}</text><text x="324" y="${y}" class="value">${value}</text>`;
     })
     .join("");
 
