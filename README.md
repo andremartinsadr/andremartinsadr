@@ -112,14 +112,14 @@ Sou estudante de Engenharia de Software na Cruzeiro do Sul Virtual. Mineiro e ap
 <p align="center">
   <img
     alt="Estatísticas do GitHub"
-    width="49%"
+    width="59%"
     height="200"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andremartinsadr&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=andremartinsadr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=Estat%C3%ADsticas+do+GitHub+de+Andr%C3%A9"
   />
   <img
     alt="Linguagens mais utilizadas nos repositórios"
-    width="49%"
+    width="39%"
     height="200"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andremartinsadr&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremartinsadr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
   />
 </p>
